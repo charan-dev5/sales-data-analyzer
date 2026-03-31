@@ -16,4 +16,4 @@ A Python script that analyzes product sales data, calculates revenue, and export
 
 ## How to run
 1. Install requirements: `pip install pandas openpyxl`
-2. Run: `python data.py`
+2. Run: `python sales_analyzer.py`
